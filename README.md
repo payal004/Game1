@@ -1,2 +1,2 @@
 # Game1
-simple game using js,html,css
+simple rocket & space game using html,css.
